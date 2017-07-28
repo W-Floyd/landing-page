@@ -1,16 +1,12 @@
 <?php
 
 // To change these values, create a file called config.php and copy/paste them there.
-$server_name = "Server";
-$server_desc = "";
+$server_name = "Serverinator";
+$server_desc = "Serves things";
 $color_bg = "#222";
 $color_name = "#fff";
 $color_text = "#ccc";
 $custom_css = "";
-
-if(is_file("config.php")) {
-	include "config.php";
-}
 
 // Detect Windows systems
 $windows = defined("PHP_WINDOWS_VERSION_MAJOR");
