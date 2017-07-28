@@ -283,7 +283,7 @@ footer canvas + input {
 <?php echo $custom_css; ?>
 /* End: Custom CSS */
 </style>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script src="jqknob.js"></script>
 <script>
 function update() {
