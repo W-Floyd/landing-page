@@ -1,0 +1,33 @@
+body {
+    background-color: #222;
+}
+
+.row, .image-tile {
+    text-align: center !important;
+}
+
+.image-tile {
+    display: table;
+}
+
+.realimage {
+    width: 100%;
+}
+
+h1 {
+    position: absolute;
+    top: 5%;
+    color: white;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h2 {
+    position: absolute;
+    bottom: 10%;
+    color: white;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
