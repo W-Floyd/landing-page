@@ -14,7 +14,7 @@ body {
     width: 100%;
 }
 
-h1 {
+.image-title {
     position: absolute;
     top: 5%;
     color: white;
@@ -23,7 +23,7 @@ h1 {
     text-align: center;
 }
 
-h2 {
+.image-description {
     position: absolute;
     bottom: 10%;
     color: white;
