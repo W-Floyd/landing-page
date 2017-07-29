@@ -10,8 +10,8 @@
 ?>
 
 <section>
-	<h1 class="textcenter"><?php echo $server_name; ?></h1>
-	<h2 class="textcenter"><?php echo $server_desc; ?></p>
+	<h1 class="textcenter main-title"><?php echo $server_name; ?></h1>
+	<h2 class="textcenter main-description"><?php echo $server_desc; ?></p>
 </section>
 
 <div class="tiles-container">

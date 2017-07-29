@@ -6,6 +6,10 @@
     padding: 2rem;
 }
 
+img {
+    border-radius: 2em;
+}
+
 .tiles-container {
     padding-left: 10vw;
     padding-right: 10vw;
@@ -65,3 +69,11 @@
     filter: brightness(1.10) grayscale(25%);
 }
 
+.main-title {
+    font-weight: 100;
+    font-size: 4em;
+}
+
+.main-description {
+    font-size: 2em;
+}
