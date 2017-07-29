@@ -33,7 +33,7 @@
             }
 
             $fullname = $row[3];
-            echo '<div class="image-tile col-lg-3 col-sm-4 col-xs-6">';
+            echo '<div class="image-tile col-lg-3 col-xs-6">';
             echo '<a href="../' . $extension . '"><img class="realimage" src="' . $image_use . '"></a>';
             echo '<h1 class="image-title textcenter" id="title-' . $checksum . '">' . $fullname . '</h1><br>';
             echo '<h2 class="image-description textcenter" id="description-' . $checksum . '">' . $description . '</h2>';
