@@ -3,7 +3,12 @@
 }
 
 .image-tile {
-    display: table;
+    padding: 2rem;
+}
+
+.tiles-container {
+    padding-left: 10vw;
+    padding-right: 10vw;
 }
 
 .realimage {
@@ -12,11 +17,10 @@
 
 .image-title {
     position: absolute;
-    top: 5%;
+    top: 4%;
     color: white;
     left: 0;
     width: 100%;
-    text-align: center;
 }
 
 .image-description {
@@ -25,5 +29,39 @@
     color: white;
     left: 0;
     width: 100%;
+}
+
+.col, .row {
+  padding:0px;
+  margin: 0px;
+}
+
+.textcenter {
     text-align: center;
 }
+
+.image-tile {
+    -webkit-transition: all .3s ease; /* Safari and Chrome */
+    -moz-transition: all .3s ease; /* Firefox */
+    -o-transition: all .3s ease; /* IE 9 */
+    -ms-transition: all .3s ease; /* Opera */
+    transition: all .3s ease;
+
+    -webkit-filter: brightness(1) grayscale(0%) contrast(100%);
+    -moz-filter: brightness(1) grayscale(0%) contrast(100%);
+    filter: brightness(1) grayscale(0%);
+}
+.image-tile:hover {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform:translateZ(0) scale(1.05); /* Safari and Chrome */
+    -moz-transform:scale(1.02); /* Firefox */
+    -ms-transform:scale(1.02); /* IE 9 */
+    -o-transform:translatZ(0) scale(1.02); /* Opera */
+    transform:translatZ(0) scale(1.02);
+
+    -webkit-filter: brightness(1.10) grayscale(25%) contrast(90%);
+    -moz-filter: brightness(1.10) grayscale(25%) contrast(90%);
+    filter: brightness(1.10) grayscale(25%);
+}
+

@@ -28,6 +28,10 @@
             color: <?php echo $color_name; ?>;
         }
 
+        h2 {
+            color: <?php echo $color_text; ?>;
+        }
+
     </style>
 
     <body>

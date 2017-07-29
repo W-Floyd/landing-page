@@ -1,0 +1,23 @@
+<svg width="600" height="600" version="1.1" viewBox="0 0 158.74999 158.74999" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <marker id="Arrow2Mend" style="overflow:visible" orient="auto">
+   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#86c44f;stroke-linejoin:round;stroke-width:.625;stroke:#86c44f"/>
+  </marker>
+  <linearGradient id="linearGradient4520" x1="-.30238" x2="-.30238" y1="297.3" y2="161.23" gradientTransform="matrix(1.1667 0 0 1.1667 .35278 -49.853)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#434343" offset="0"/>
+   <stop style="stop-color:#4d4d4d" offset="1"/>
+  </linearGradient>
+  <marker id="marker1789a" style="overflow:visible" orient="auto">
+   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#59a6e3;stroke-linejoin:round;stroke-width:.625;stroke:#59a6e3"/>
+  </marker>
+ </defs>
+ <g transform="translate(0,-138.25)">
+  <rect x="-2.1167" y="136.13" width="162.98" height="162.98" style="fill:url(#linearGradient4520);paint-order:normal"/>
+  <path d="m139.01 224.56c-30.086 8.3053-56.806 15.073-108.48 0" style="fill:none;marker-end:url(#Arrow2Mend);stroke-width:2.1167;stroke:#86c44f"/>
+  <circle cx="139.11" cy="217.62" r="6.9417" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.1167;stroke:#86c44f"/>
+  <path d="m19.742 210.68c26.359-8.1425 53.783-15.195 108.48 0" style="fill:none;marker-end:url(#marker1789a);stroke-miterlimit:4.1;stroke-width:2.1167;stroke:#59a6e3"/>
+  <circle cx="19.642" cy="217.62" r="6.9417" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.1167;stroke:#59a6e3"/>
+  <circle cx="19.642" cy="217.62" r="2.1167" style="fill:#3676a4;paint-order:normal"/>
+  <circle cx="139.11" cy="217.62" r="2.1167" style="fill:#6aa337;paint-order:normal"/>
+ </g>
+</svg>
