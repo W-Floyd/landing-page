@@ -18,4 +18,16 @@
         <title><?php echo $server_name; ?></title>
     </head>
 
+    <style type="text/css">
+
+        body {
+            background-color: <?php echo $color_bg; ?>;
+        }
+
+        h1 {
+            color: <?php echo $color_name; ?>;
+        }
+
+    </style>
+
     <body>
