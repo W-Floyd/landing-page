@@ -11,7 +11,7 @@
 
 <section>
 	<h1 class="textcenter main-title"><?php echo $server_name; ?></h1>
-	<h2 class="textcenter main-description"><?php echo $server_desc; ?></p>
+	<h2 class="textcenter main-description"><?php echo $server_desc; ?>
 </section>
 
 <div class="tiles-container">
