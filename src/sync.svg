@@ -1,23 +1,61 @@
-<svg width="600" height="600" version="1.1" viewBox="0 0 158.74999 158.74999" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <marker id="Arrow2Mend" style="overflow:visible" orient="auto">
-   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#86c44f;stroke-linejoin:round;stroke-width:.625;stroke:#86c44f"/>
+  <marker id="marker5654" style="overflow:visible" orient="auto">
+   <path transform="scale(.3) rotate(180) translate(-2.3)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#80c247;stroke-linejoin:round;stroke-width:.625;stroke:#80c247"/>
   </marker>
-  <linearGradient id="linearGradient4520" x1="-.30238" x2="-.30238" y1="297.3" y2="161.23" gradientTransform="matrix(1.1667 0 0 1.1667 .35278 -49.853)" gradientUnits="userSpaceOnUse">
+  <marker id="marker5504" style="overflow:visible" orient="auto">
+   <path transform="scale(.3) rotate(180) translate(-2.3)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#59a6e3;stroke-linejoin:round;stroke-width:.625;stroke:#59a6e3"/>
+  </marker>
+  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
    <stop style="stop-color:#4d4d4d" offset="1"/>
   </linearGradient>
-  <marker id="marker1789a" style="overflow:visible" orient="auto">
-   <path transform="scale(.6) rotate(180) translate(0)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#59a6e3;stroke-linejoin:round;stroke-width:.625;stroke:#59a6e3"/>
-  </marker>
+  <filter id="filter7224" style="color-interpolation-filters:sRGB">
+   <feColorMatrix result="result1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "/>
+   <feColorMatrix result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "/>
+   <feComposite in="SourceGraphic" in2="result9" operator="in" result="result4"/>
+   <feFlood flood-color="rgb(0,0,0)" result="result2"/>
+   <feComposite in2="result9" operator="in" result="result10"/>
+   <feComposite in2="result4" operator="atop"/>
+   <feGaussianBlur result="result8" stdDeviation="3"/>
+   <feOffset dx="3" dy="3" in="result8" result="result3"/>
+   <feFlood flood-color="rgb(219,173,62)" result="result5"/>
+   <feMerge result="result6">
+    <feMergeNode in="result5"/>
+    <feMergeNode in="result3"/>
+    <feMergeNode in="result4"/>
+   </feMerge>
+   <feComposite in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
+  <filter id="filter7254" style="color-interpolation-filters:sRGB">
+   <feColorMatrix result="result1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.21 0.72 0.07 0 0 "/>
+   <feColorMatrix result="result9" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 2 0 "/>
+   <feComposite in="SourceGraphic" in2="result9" operator="in" result="result4"/>
+   <feFlood flood-color="rgb(0,0,0)" result="result2"/>
+   <feComposite in2="result9" operator="in" result="result10"/>
+   <feComposite in2="result4" operator="atop"/>
+   <feGaussianBlur result="result8" stdDeviation="3"/>
+   <feOffset dx="3" dy="3" in="result8" result="result3"/>
+   <feFlood flood-color="rgb(219,173,62)" result="result5"/>
+   <feMerge result="result6">
+    <feMergeNode in="result5"/>
+    <feMergeNode in="result3"/>
+    <feMergeNode in="result4"/>
+   </feMerge>
+   <feComposite in2="SourceGraphic" operator="in" result="result7"/>
+  </filter>
  </defs>
- <g transform="translate(0,-138.25)">
-  <rect x="-2.1167" y="136.13" width="162.98" height="162.98" style="fill:url(#linearGradient4520);paint-order:normal"/>
-  <path d="m139.01 224.56c-30.086 8.3053-56.806 15.073-108.48 0" style="fill:none;marker-end:url(#Arrow2Mend);stroke-width:2.1167;stroke:#86c44f"/>
-  <circle cx="139.11" cy="217.62" r="6.9417" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.1167;stroke:#86c44f"/>
-  <path d="m19.742 210.68c26.359-8.1425 53.783-15.195 108.48 0" style="fill:none;marker-end:url(#marker1789a);stroke-miterlimit:4.1;stroke-width:2.1167;stroke:#59a6e3"/>
-  <circle cx="19.642" cy="217.62" r="6.9417" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:2.1167;stroke:#59a6e3"/>
-  <circle cx="19.642" cy="217.62" r="2.1167" style="fill:#3676a4;paint-order:normal"/>
-  <circle cx="139.11" cy="217.62" r="2.1167" style="fill:#6aa337;paint-order:normal"/>
+ <g transform="translate(0 -284.3)">
+  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
+  <g transform="translate(1.5875 5.8208)" style="filter:url(#filter7224)">
+   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
+  </g>
+  <path d="m2.249 290.39v-0.79375l0.52917-0.52917h6.35l0.52917 0.52917" style="fill:none;marker-end:url(#marker5504);stroke-width:.26458px;stroke:#59a6e3"/>
+  <g transform="matrix(.8 0 0 .79999 9.816 62.709)" style="filter:url(#filter7254);stroke-width:1.25">
+   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
+  </g>
+  <path d="m10.451 291.18v0.79375l-0.52917 0.52917h-6.35l-0.52917-0.52917" style="fill:none;marker-end:url(#marker5654);stroke-width:.26458px;stroke:#80c247"/>
  </g>
 </svg>
