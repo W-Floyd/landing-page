@@ -1,6 +1,6 @@
 <?php
     $server_name = "The Server-inator";
-    $server_desc = "The most diabolical of machines, dedicated to destroying semiaquatic mammals";
+    $server_desc = "The most diabolical of machines, dedicated to destroying semiaquatic mammals.";
     $color_bg = "#222";
     $color_name = "#fff";
     $color_text = "#ccc";
