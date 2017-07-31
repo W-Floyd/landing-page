@@ -10,13 +10,18 @@
 ?>
 
 <section>
-	<h1 id='main-title' class="textcenter main-title"><?php echo $server_name; ?></h1>
-	<h2 id='main-description' class="textcenter main-description"><?php echo $server_desc; ?>
-
-    <script type="text/javascript">'
-        $("#main-title").fitText();
-        $("#main-description").fitText();
-    </script>
+	<h1 id='main-title' class="textcenter main-title">
+	    <?php echo $server_name; ?>
+	    <script type="text/javascript">'
+            $("#main-title").fitText();
+        </script>
+	</h1>
+	<h2 id='main-description' class="textcenter main-description">
+	    <?php echo $server_desc; ?>
+	    <script type="text/javascript">'
+            $("#main-description").fitText();
+        </script>
+    </h2>
 </section>
 
 <div class="tiles-container">
