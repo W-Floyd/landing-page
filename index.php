@@ -9,18 +9,14 @@
 
 ?>
 
-<div>
-    <h1 id='main-title' class="textcenter main-title">
-        <?php echo $server_name; ?>
-    </h1>
-    <h2 id='main-description' class="textcenter main-description">
-        <?php echo $server_desc; ?>
-    </h2>
-    <script type="text/javascript">'
-        jQuery("#main-title").fitText();
-        jQuery("#main-description").fitText();
-    </script>
-</div>
+
+<h1 class="textcenter main-title">
+    <?php echo $server_name; ?>
+</h1>
+<h2 class="textcenter main-description">
+    <?php echo $server_desc; ?>
+</h2>
+
 
 <div class="tiles-container">
 
