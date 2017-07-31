@@ -12,16 +12,14 @@
 <section>
 	<h1 id='main-title' class="textcenter main-title">
 	    <?php echo $server_name; ?>
-	    <script type="text/javascript">'
-            $("#main-title").fitText();
-        </script>
 	</h1>
 	<h2 id='main-description' class="textcenter main-description">
 	    <?php echo $server_desc; ?>
-	    <script type="text/javascript">'
-            $("#main-description").fitText();
-        </script>
     </h2>
+    <script type="text/javascript">'
+        jQuery("#main-title").fitText();
+        jQuery("#main-description").fitText();
+    </script>
 </section>
 
 <div class="tiles-container">
