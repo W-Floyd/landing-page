@@ -1,0 +1,30 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientTransform="translate(-1.6532e-8 -7.9322e-6)" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#434343" offset="0"/>
+   <stop style="stop-color:#4d4d4d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -284.3)">
+  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
+  <path d="m4.632 291.65 1.3192-2.2614" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+  <path d="m7.8036 291.65-1.3195-2.262" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+  <path d="m6.6581 289.42 0.49521 0.32372-0.22832 0.13321 0.76449 1.8351-1.3186-2.2617 0.22852-0.13281z" style="fill-rule:evenodd;fill:#80c247"/>
+  <g transform="matrix(.8 0 0 .79999 5.5827 60.857)" style="stroke-width:1.25">
+   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
+  </g>
+  <path d="m4.8948 292.11h2.6458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+  <g transform="translate(7.4083 7.1438)">
+   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
+  </g>
+  <path d="m5.0271 291.97 0.52917-0.26459v0.52917z" style="fill-rule:evenodd;fill:#59a6e3"/>
+  <path d="m7.4083 292.24-0.52917 0.26459v-0.52917z" style="fill-rule:evenodd;fill:#59a6e3"/>
+  <path d="m5.7772 289.42-0.49521 0.32372 0.22832 0.13321-0.7642 1.835 1.3184-2.2617-0.22852-0.13281z" style="fill-rule:evenodd;fill:#80c247"/>
+  <g transform="translate(3.7042 7.1438)">
+   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
+  </g>
+ </g>
+</svg>
