@@ -70,12 +70,10 @@ img {
 }
 
 .main-title {
-    position: absolute;
     font-weight: 35;
     font-size: 4em;
 }
 
 .main-description {
-    position: absolute;
     font-size: 2em;
 }
