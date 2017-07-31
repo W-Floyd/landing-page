@@ -9,7 +9,7 @@
 
 ?>
 
-<section>
+<div>
     <h1 id='main-title' class="textcenter main-title">
         <?php echo $server_name; ?>
     </h1>
@@ -20,7 +20,7 @@
         jQuery("#main-title").fitText();
         jQuery("#main-description").fitText();
     </script>
-</section>
+</div>
 
 <div class="tiles-container">
 
