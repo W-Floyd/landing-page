@@ -29,7 +29,7 @@
             if (file_exists($image)) {
                 $image_use = $image;
             } else {
-                $image_use = 'img/default.png';
+                $image_use = 'img/default.svg';
             }
 
             $fullname = $row[3];
