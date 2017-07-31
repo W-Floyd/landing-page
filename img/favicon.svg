@@ -1,15 +1,6 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
-   <stop style="stop-color:#434343" offset="0"/>
-   <stop style="stop-color:#4d4d4d" offset="1"/>
-  </linearGradient>
- </defs>
- <g transform="translate(0 -284.3)">
-  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
-  <g transform="matrix(9.3999 0 0 9.3999 -1.1113 -2389.2)" style="stroke-width:.10638">
-   <ellipse cx=".79376" cy="285.09" rx=".61924" ry=".61924" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.11259;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
-  </g>
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(9.3999,0,0,9.3999,-1.1113,-2673.5)" style="stroke-width:.10638">
+  <circle cx=".79376" cy="285.09" r=".61924" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.11259;stroke:#80c247"/>
+  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
  </g>
 </svg>
