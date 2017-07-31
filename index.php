@@ -12,6 +12,10 @@
 <section>
 	<h1 class="textcenter main-title"><?php echo $server_name; ?></h1>
 	<h2 class="textcenter main-description"><?php echo $server_desc; ?>
+
+    <script type="text/javascript">';
+        $("#textcenter").fitText();
+    </script>
 </section>
 
 <div class="tiles-container">
