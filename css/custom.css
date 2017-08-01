@@ -32,17 +32,17 @@ img {
 .image-title {
     position: absolute;
     top: 4%;
-    color: white;
     left: 0;
     width: 100%;
+    padding: 2rem;
 }
 
 .image-description {
     position: absolute;
     bottom: 10%;
-    color: white;
     left: 0;
     width: 100%;
+    padding: 2rem;
 }
 
 .col, .row {
