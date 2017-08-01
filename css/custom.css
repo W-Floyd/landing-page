@@ -34,7 +34,8 @@ img {
     top: 4%;
     left: 0;
     width: 100%;
-    padding: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 .image-description {
@@ -42,7 +43,8 @@ img {
     bottom: 10%;
     left: 0;
     width: 100%;
-    padding: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
 }
 
 .col, .row {
