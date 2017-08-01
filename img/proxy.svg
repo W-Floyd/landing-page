@@ -1,0 +1,23 @@
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
+   <stop style="stop-color:#434343" offset="0"/>
+   <stop style="stop-color:#4d4d4d" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -284.3)">
+  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
+  <g transform="matrix(.8 0 0 .79999 1.614 62.444)" style="stroke-width:1.25">
+   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
+  </g>
+  <g transform="translate(9.7896 5.5563)">
+   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
+  </g>
+  <path d="m2.6458 290.52h2.9104" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
+  <path d="m6.8792 290.52h3.175" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+  <path d="m6.7469 291.97v-2.9104" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
+  <path d="m5.6885 291.97v-2.9104" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+ </g>
+</svg>
