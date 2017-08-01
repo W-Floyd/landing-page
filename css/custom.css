@@ -57,11 +57,11 @@ img {
 }
 
 .image-tile {
-    -webkit-transition: all .3s ease; /* Safari and Chrome */
-    -moz-transition: all .3s ease; /* Firefox */
-    -o-transition: all .3s ease; /* IE 9 */
-    -ms-transition: all .3s ease; /* Opera */
-    transition: all .3s ease;
+    -webkit-transition: all .2s ease; /* Safari and Chrome */
+    -moz-transition: all .2s ease; /* Firefox */
+    -o-transition: all .2s ease; /* IE 9 */
+    -ms-transition: all .2s ease; /* Opera */
+    transition: all .2s ease;
 
     -webkit-filter: brightness(1) grayscale(0%) contrast(100%);
     -moz-filter: brightness(1) grayscale(0%) contrast(100%);
