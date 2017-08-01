@@ -15,7 +15,7 @@
         <link href="css/bootstrap.min.css" rel="stylesheet">
         <link href="css/custom.css" rel="stylesheet">
         <title><?php echo $server_name; ?></title>
-        <link rel=icon href=img/favicon.png>
+        <link rel=icon href=img/favicon.svg>
     </head>
 
     <style type="text/css">
