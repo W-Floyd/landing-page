@@ -7,8 +7,8 @@
  </defs>
  <g transform="translate(0 -284.3)">
   <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
-  <path d="m4.101 290.39v-0.39688l0.52917-0.52917h1.4552" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
-  <path d="m8.8635 290.39v-0.39688l-0.52917-0.52917h-1.4552" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
+  <path d="m4.101 290.39v-0.39688l0.52917-0.52917h1.4552" style="fill:none;stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
+  <path d="m8.8635 290.39v-0.39688l-0.52917-0.52917h-1.4552" style="fill:none;stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
   <g transform="translate(3.4396 6.3515)">
    <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
    <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
