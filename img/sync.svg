@@ -6,22 +6,20 @@
   <marker id="marker5504" style="overflow:visible" orient="auto">
    <path transform="scale(.3) rotate(180) translate(-2.3)" d="m8.7186 4.0337l-10.926-4.0177 10.926-4.0177c-1.7455 2.3721-1.7354 5.6175-6e-7 8.0354z" style="fill-rule:evenodd;fill:#59a6e3;stroke-linejoin:round;stroke-width:.625;stroke:#59a6e3"/>
   </marker>
-  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientTransform="translate(0,-284.3)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
    <stop style="stop-color:#4d4d4d" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0 -284.3)">
-  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
-  <path d="m2.249 290.39v-0.79375l0.52917-0.52917h6.35l0.52917 0.52917" style="fill:none;marker-end:url(#marker5504);stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-  <path d="m10.451 291.18v0.79375l-0.52917 0.52917h-6.35l-0.52917-0.52917" style="fill:none;marker-end:url(#marker5654);stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
-  <g transform="matrix(.8 0 0 .79999 9.816 62.709)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
-  </g>
-  <g transform="translate(1.5875 5.8209)">
-   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
-  </g>
+ <rect y="-1.2207e-5" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
+ <path d="m2.249 6.09v-0.79375l0.52917-0.52917h6.35l0.52917 0.52917" style="fill:none;marker-end:url(#marker5504);stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+ <path d="m10.451 6.88v0.79375l-0.52917 0.52917h-6.35l-0.52917-0.52917" style="fill:none;marker-end:url(#marker5654);stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
+ <g transform="matrix(.8 0 0 .79999 9.816 -221.59)" style="stroke-width:1.25">
+  <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
+ </g>
+ <g transform="translate(1.5875 -278.48)">
+  <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+  <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
  </g>
 </svg>

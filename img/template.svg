@@ -1,20 +1,18 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg">
  <defs>
-  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
+  <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientTransform="translate(0,-284.3)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
    <stop style="stop-color:#4d4d4d" offset="1"/>
   </linearGradient>
  </defs>
- <g transform="translate(0 -284.3)">
-  <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
-  <g transform="translate(2.1167 1.7807e-5)">
-   <ellipse cx=".66146" cy="284.96" rx=".52917" ry=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-   <ellipse cx=".66146" cy="284.96" rx=".1323" ry=".1323" style="fill:#3676a4;paint-order:normal"/>
-  </g>
-  <path d="m0.66146 285.36v1.0583l0.52917 0.52917h1.0583l0.52917-0.52917v-0.52917" style="fill:none;stroke-linejoin:round;stroke-width:.26458px;stroke:#80c247"/>
-  <g transform="matrix(.8 0 0 .79999 .026459 56.888)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
-  </g>
+ <rect y="-1.2207e-5" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
+ <g transform="translate(2.1167 -284.3)">
+  <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
+  <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
+ </g>
+ <path d="m0.66146 1.06v1.0583l0.52917 0.52917h1.0583l0.52917-0.52917v-0.52917" style="fill:none;stroke-linejoin:round;stroke-width:.26458px;stroke:#80c247"/>
+ <g transform="matrix(.8 0 0 .79999 .026459 -227.41)" style="stroke-width:1.25">
+  <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
  </g>
 </svg>
