@@ -1,4 +1,4 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
@@ -7,26 +7,15 @@
  </defs>
  <g transform="translate(0 -284.3)">
   <rect y="284.3" width="12.7" height="12.7" style="fill:url(#linearGradient4523);paint-order:normal"/>
-  <g transform="matrix(.8 0 0 .79999 2.9369 60.592)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
-  </g>
   <g transform="matrix(.8 0 0 .79999 8.4931 60.592)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
+   <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+   <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
   </g>
   <g transform="matrix(.8 0 0 .79999 2.9369 64.561)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
+   <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
+   <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
   </g>
-  <g transform="matrix(.8 0 0 .79999 8.4931 64.561)" style="stroke-width:1.25">
-   <ellipse cx=".79376" cy="285.09" rx=".66146" ry=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-   <ellipse cx=".79376" cy="285.09" rx=".16536" ry=".16536" style="fill:#55852c;paint-order:normal"/>
-  </g>
-  <path d="m3.9688 288.67h4.7625" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
-  <path d="m9.1281 289.06v3.175" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
-  <path d="m8.7313 292.63h-4.7625" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
-  <path d="m3.5719 292.24v-3.175" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
+  <path d="m8.2021 288.67h-4.6302v3.5675" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
   <path d="m4.4979 289.46h0.52917" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
   <path d="m5.2917 289.46h0.52917" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
   <path d="m6.0854 289.46h0.79375" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
@@ -50,5 +39,6 @@
   <path d="m6.8792 291.84h0.52917" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
   <path d="m6.35 291.84h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
   <path d="m7.6729 291.84h0.79375" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+  <path d="m4.4979 292.63h4.6303v-3.5675" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
  </g>
 </svg>
