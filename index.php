@@ -29,7 +29,8 @@
             $checksum = crc32($extension);
             $description = $row[1];
             $image = 'img/' . $row[2];
-            $hidden = $row[3];
+            $fullname = $row[3];
+            $hidden = $row[4];
 
             if ($hidden == 0) {
 
@@ -39,7 +40,6 @@
                     $image_use = 'img/default.svg';
                 }
 
-                $fullname = $row[3];
                 echo '<div class="image-tile col-lg-3 col-xs-6">';
                 echo '<a href="../' . $extension . '"><img class="realimage" src="' . $image_use . '"></a>';
                 echo '<h1 class="image-title textcenter" id="title-' . $checksum . '">' . nl2br($fullname) . '</h1><br>';
