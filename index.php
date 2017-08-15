@@ -29,23 +29,28 @@
             $checksum = crc32($extension);
             $description = $row[1];
             $image = 'img/' . $row[2];
+            $hidden = $row[3];
 
-            if (file_exists($image)) {
-                $image_use = $image;
-            } else {
-                $image_use = 'img/default.svg';
+            if ($hidden == 0) {
+
+                if (file_exists($image)) {
+                    $image_use = $image;
+                } else {
+                    $image_use = 'img/default.svg';
+                }
+
+                $fullname = $row[3];
+                echo '<div class="image-tile col-lg-3 col-xs-6">';
+                echo '<a href="../' . $extension . '"><img class="realimage" src="' . $image_use . '"></a>';
+                echo '<h1 class="image-title textcenter" id="title-' . $checksum . '">' . nl2br($fullname) . '</h1><br>';
+                echo '<h2 class="image-description textcenter" id="description-' . $checksum . '">' . nl2br($description) . '</h2>';
+                echo '</div>';
+                echo '<script type="text/javascript">';
+                    echo '$("#title-' . $checksum . '").fitText();';
+                    echo '$("#description-' . $checksum . '").fitText(1.8);';
+                echo '</script>';
+
             }
-
-            $fullname = $row[3];
-            echo '<div class="image-tile col-lg-3 col-xs-6">';
-            echo '<a href="../' . $extension . '"><img class="realimage" src="' . $image_use . '"></a>';
-            echo '<h1 class="image-title textcenter" id="title-' . $checksum . '">' . nl2br($fullname) . '</h1><br>';
-            echo '<h2 class="image-description textcenter" id="description-' . $checksum . '">' . nl2br($description) . '</h2>';
-            echo '</div>';
-            echo '<script type="text/javascript">';
-                echo '$("#title-' . $checksum . '").fitText();';
-                echo '$("#description-' . $checksum . '").fitText(1.8);';
-            echo '</script>';
         }
 
     ?>
