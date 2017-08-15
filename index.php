@@ -4,7 +4,7 @@
 
     $db = new SQLite3('landingpage.db');
 
-    $results = $db->query('SELECT extension, description, image, fullname FROM sites ORDER BY fullname');
+    $results = $db->query('SELECT extension, description, image, fullname, hidden FROM sites ORDER BY fullname');
 
 
 ?>
@@ -25,12 +25,12 @@
     <?php
 
         while ($row = $results->fetchArray()) {
-            $extension = $row[0];
+            $extension = $row['extension'];
             $checksum = crc32($extension);
-            $description = $row[1];
-            $image = 'img/' . $row[2];
-            $fullname = $row[3];
-            $hidden = $row[4];
+            $description = $row['description'];
+            $image = 'img/' . $row['image'];
+            $fullname = $row['fullname'];
+            $hidden = $row['hidden'];
 
             if ($hidden == 0) {
 
