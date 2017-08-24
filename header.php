@@ -36,23 +36,23 @@
         
         .image-tile {
             /* fallback */
-            background-color: <?php echo $image_grad_start; ?>;
+            background-color: <?php echo $image_grad_end; ?>;
             
 
             /* Safari 4-5, Chrome 1-9 */
             background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(<?php echo $image_grad_start; ?>), to(<?php echo $image_grad_end; ?>));
 
             /* Safari 5.1, Chrome 10+ */
-            background: -webkit-linear-gradient(top, <?php echo $image_grad_end; ?>, <?php echo $image_grad_start; ?>);
+            background: -webkit-linear-gradient(top, <?php echo $image_grad_start; ?>, <?php echo $image_grad_end; ?>);
 
             /* Firefox 3.6+ */
-            background: -moz-linear-gradient(top, <?php echo $image_grad_end; ?>, <?php echo $image_grad_start; ?>);
+            background: -moz-linear-gradient(top, <?php echo $image_grad_start; ?>, <?php echo $image_grad_end; ?>);
 
             /* IE 10 */
-            background: -ms-linear-gradient(top, <?php echo $image_grad_end; ?>, <?php echo $image_grad_start; ?>);
+            background: -ms-linear-gradient(top, <?php echo $image_grad_start; ?>, <?php echo $image_grad_end; ?>);
 
             /* Opera 11.10+ */
-            background: -o-linear-gradient(top, <?php echo $image_grad_end; ?>, <?php echo $image_grad_start; ?>);
+            background: -o-linear-gradient(top, <?php echo $image_grad_start; ?>, <?php echo $image_grad_end; ?>);
             
         }
 
