@@ -1,4 +1,4 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.700001" xmlns="http://www.w3.org/2000/svg">
+<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
  <defs>
   <linearGradient id="linearGradient4523" x2="0" y1="297" y2="284.3" gradientTransform="translate(0,-284.3)" gradientUnits="userSpaceOnUse">
    <stop style="stop-color:#434343" offset="0"/>
@@ -32,11 +32,10 @@
  <path d="m7.1438 6.75h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
  <path d="m7.6729 6.75h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
  <path d="m8.2021 6.75h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m4.7625 7.54h0.79375" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m4.2333 7.54h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m5.8208 7.54h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m6.8792 7.54h0.52917" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m6.35 7.54h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m7.6729 7.54h0.79375" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+ <path d="m5.0271 7.54h0.79375" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+ <path d="m4.4979 7.54h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+ <path d="m6.0854 7.54h0.26458" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+ <path d="m7.4083 7.54h0.79368" style="fill:none;stroke-width:.32403px;stroke:#59a6e3"/>
+ <path d="m6.6146 7.54h0.52913" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
  <path d="m4.4979 8.33h4.6303v-3.5675" style="fill:none;stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
 </svg>
