@@ -1,10 +1,12 @@
 h1 {
-    font-family: Raleway, sans-serif;
-    font-weight: 300;
+	font-family: 'Raleway';
+	src: url('font/subset-Raleway-Light.woff') format('woff'),
+	font-weight: 300;
 }
 
 h2 {
-    font-family: Raleway, sans-serif;
+	font-family: 'Raleway';
+	src: url('font/subset-Raleway-Light.woff') format('woff'),
     font-weight: 400;
 }
 
