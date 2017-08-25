@@ -20,4 +20,4 @@ While not difficult to manually go to each place, I did get a bit tired of it, a
 
 Thus, this repo was formed, from which I used a git webhook to automatically update my landing page.
 
-Icon themeing is custom, and probably not that easy for others to work with, so send in a PR if you want something.
+Icon themeing is custom, and probably not that easy for others to work with, so open an issue if you want something.
