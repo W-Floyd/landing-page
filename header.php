@@ -1,11 +1,7 @@
 <?php
-    $server_name = "The Server-inator";
-    $server_desc = "The most diabolical of machines, dedicated to destroying semiaquatic mammals.";
-    $color_bg = "#232E33";
-    $color_name = "#fff";
-    $color_text = "#ccc";
-    $image_grad_start = "#2F3D44";
-    $image_grad_end = "#2C3940";
+    $db = new SQLite3('landingpage.db');
+    $sites = $db->query('SELECT extension, description, image, fullname, hidden FROM sites ORDER BY fullname');
+    include_once('config.php');
 ?>
 
 <html>
@@ -27,7 +23,7 @@
         }
 
         h1 {
-            color: <?php echo $color_name; ?>;
+            color: <?php echo $color_title; ?>;
         }
 
         h2 {

@@ -1,12 +1,5 @@
 <?php
     include_once('header.php');
-    $db_name = "landingpage";
-
-    $db = new SQLite3('landingpage.db');
-
-    $results = $db->query('SELECT extension, description, image, fullname, hidden FROM sites ORDER BY fullname');
-
-
 ?>
 
 
@@ -24,7 +17,7 @@
 
     <?php
 
-        while ($row = $results->fetchArray()) {
+        while ($row = $sites->fetchArray()) {
             $extension = $row['extension'];
             $checksum = crc32($extension);
             $description = $row['description'];
