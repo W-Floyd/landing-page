@@ -1,31 +1,19 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.8 0 0 .79999 1.614 -221.59)" style="stroke-width:1.25">
-  <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
- </g>
- <path d="m2.6458 6.48h1.3229" style="fill:none;stroke-width:.26458px;stroke:#80c247"/>
- <path d="m5.0271 5.82 1.0583-1.0537" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <g transform="matrix(.8 0 0 .79999 3.7306 -221.59)" style="stroke-width:1.25">
-  <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
- </g>
- <g transform="translate(5.8208 -280.6)">
-  <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-  <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- </g>
- <path d="m4.7625 6.88 1.7198 1.7198h3.8365" style="fill:none;stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
- <g transform="translate(7.9375 -280.6)">
-  <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-  <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- </g>
- <g transform="translate(10.054 -280.6)">
-  <circle cx=".66146" cy="284.96" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
-  <circle cx=".66146" cy="284.96" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- </g>
- <path d="m6.8792 4.37h1.3229" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m8.9958 4.37h1.3229" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <g transform="matrix(.8 0 0 .79999 10.081 -219.47)" style="stroke-width:1.25">
-  <circle cx=".79376" cy="285.09" r=".66146" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.33073;stroke:#80c247"/>
-  <circle cx=".79376" cy="285.09" r=".16536" style="fill:#55852c;paint-order:normal"/>
- </g>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="40.5" cy="16.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="40.5" cy="16.5" r=".5" style="fill:#3676a4"/>
+ <circle cx="8.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="8.5" cy="24.5" r=".5" style="fill:#55852c"/>
+ <circle cx="16.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="16.5" cy="24.5" r=".5" style="fill:#55852c"/>
+ <circle cx="40.5" cy="32.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="40.5" cy="32.5" r=".5" style="fill:#55852c"/>
+ <circle cx="32.5" cy="16.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="32.5" cy="16.5" r=".5" style="fill:#3676a4"/>
+ <circle cx="24.5" cy="16.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="24.5" cy="16.5" r=".5" style="fill:#3676a4"/>
+ <path d="m10 24.5h5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
+ <path d="m18 26 6.5 6.5h14.5" style="fill:none;stroke:#80c247"/>
+ <path d="m31 16.5h-5" style="fill:none;stroke:#59a6e3"/>
+ <path d="m39 16.5h-5" style="fill:none;stroke:#59a6e3"/>
+ <path d="m23 18-4 4" style="fill:none;stroke:#59a6e3"/>
 </svg>

@@ -1,22 +1,22 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 12.7 12.7" xmlns="http://www.w3.org/2000/svg">
- <ellipse cx="6.4823" cy="6.4781" rx=".52917" ry=".52916" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#80c247"/>
- <ellipse cx="6.4823" cy="6.4781" rx=".13229" ry=".13229" style="fill:#55852c;paint-order:normal;stroke-width:.99999"/>
- <circle cx="8.8636" cy="6.4809" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle cx="8.8636" cy="6.4809" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <circle cx="4.1011" cy="6.4809" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle cx="4.1011" cy="6.4809" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <path d="m4.4979 6.48h1.0584" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <path d="m7.4083 6.48h1.0584" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <circle transform="scale(1,-1)" cx="8.0698" cy="-4.63" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle transform="scale(1,-1)" cx="8.0698" cy="-4.63" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <path d="m7.6729 5.03-0.6616 0.65979" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <circle transform="scale(-1)" cx="-4.8947" cy="-4.64" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle transform="scale(-1)" cx="-4.8947" cy="-4.64" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <path d="m5.2917 5.03 0.66161 0.65979" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <circle transform="scale(-1,1)" cx="-4.8948" cy="8.3329" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle transform="scale(-1,1)" cx="-4.8948" cy="8.3329" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <path d="m5.2917 7.94 0.66161-0.66437" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
- <circle cx="8.0698" cy="8.3329" r=".52917" style="fill:none;paint-order:normal;stroke-dashoffset:9;stroke-linecap:round;stroke-linejoin:round;stroke-width:.26458;stroke:#59a6e3"/>
- <circle cx="8.0698" cy="8.3329" r=".1323" style="fill:#3676a4;paint-order:normal"/>
- <path d="m7.6729 7.94-0.6616-0.66437" style="fill:none;stroke-width:.26458px;stroke:#59a6e3"/>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="23.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="23.5" cy="24.5" r=".5" style="fill:#55852c"/>
+ <path d="m31 24.5h-4" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="32.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="32.5" cy="24.5" r=".5" style="fill:#3676a4"/>
+ <path d="m16 24.5h4" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="14.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="14.5" cy="24.5" r=".5" style="fill:#3676a4"/>
+ <path d="m19 19 2.5 2.5" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="17.5" cy="17.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="17.5" cy="17.5" r=".5" style="fill:#3676a4"/>
+ <path d="m28 19-2.5 2.5" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="29.5" cy="17.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="29.5" cy="17.5" r=".5" style="fill:#3676a4"/>
+ <path d="m19 30 2.5-2.5" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="17.5" cy="31.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="17.5" cy="31.5" r=".5" style="fill:#3676a4"/>
+ <path d="m28 30-2.5-2.5" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="29.5" cy="31.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="29.5" cy="31.5" r=".5" style="fill:#3676a4"/>
 </svg>
