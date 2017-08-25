@@ -17,7 +17,7 @@
 
     <?php
 
-        $id = 0
+        $id = 0;
 
         while ($row = $sites->fetchArray()) {
             $extension = $row['extension'];
