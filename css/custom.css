@@ -12,6 +12,10 @@ h2 {
     text-align: center !important;
 }
 
+.tile-bg {
+    margin: 1em;
+}
+
 .image-tile {
     border: 1em;
     padding: 0px;
