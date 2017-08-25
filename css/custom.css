@@ -1,6 +1,9 @@
 @font-face {
 	font-family: 'Raleway';
-	src: url('font/subset-Raleway-Light.woff') format('woff')
+	src: url('font/subset-Raleway-Light.eot');
+	src: url('font/subset-Raleway-Light.eot?#iefix') format('embedded-opentype'),
+		url('font/subset-Raleway-Light.woff') format('woff'),
+		url('font/subset-Raleway-Light.ttf') format('truetype');
 	font-weight: 300;
 	font-style: normal;
 }
@@ -8,11 +11,13 @@
 h1 {
 	font-family: 'Raleway';
 	font-weight: 300;
+	font-style: normal;
 }
 
 h2 {
 	font-family: 'Raleway';
     font-weight: 400;
+	font-style: normal;
 }
 
 .row, .image-tile {
