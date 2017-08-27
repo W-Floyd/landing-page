@@ -18,6 +18,6 @@ Having gotten my first VPS, I wanted a simple way to navigate to the various ser
 
 While not difficult to manually go to each place, I did get a bit tired of it, and wanted to have a go writing in PHP for the first time.
 
-Thus, this repo was formed, from which I used a git webhook to automatically update my landing page.
+Thus, this repo was formed, from which I use a git hook to automatically update my landing page.
 
 Icon themeing is custom, and probably not that easy for others to work with, so open an issue if you want something.
