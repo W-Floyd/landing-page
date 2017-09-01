@@ -110,3 +110,7 @@ h2 {
 	margin:0 auto;
 	max-width:1140px;
 }
+
+.main-title, .main-description {
+    margin: 0;
+}
