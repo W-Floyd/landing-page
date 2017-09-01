@@ -49,8 +49,8 @@ h2 {
     top: 4%;
     left: 0;
     width: 100%;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 3em;
+    padding-right: 3em;
 }
 
 .image-description {
@@ -58,8 +58,8 @@ h2 {
     bottom: 10%;
     left: 0;
     width: 100%;
-    padding-left: 4rem;
-    padding-right: 4rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .col, .row {
