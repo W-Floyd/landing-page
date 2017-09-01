@@ -15,7 +15,7 @@
         <?php echo nl2br($server_desc); ?>
     </h2>
     <script type="text/javascript">
-        fitText(document.getElementById('subtitle'), 0.75)
+        fitText(document.getElementById('subtitle'), 3)
     </script>
 
 </div>
