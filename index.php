@@ -43,8 +43,8 @@
                 echo '</div>';
                 echo '</div>';
                 echo '<script type="text/javascript">';
-                    echo '$("#title-' . $id . '").fitText();';
-                    echo '$("#description-' . $id . '").fitText(1.8);';
+                    echo 'fitText(document.getElementById("title-' . $id . '"), 1.0);';
+                    echo 'fitText(document.getElementById("description-' . $id . '"), 1.8);';
                 echo '</script>';
 
             }
