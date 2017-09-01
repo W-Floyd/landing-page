@@ -46,11 +46,9 @@ h2 {
 
 .image-title {
     position: absolute;
-    top: 4%;
+    padding-top: 2em;
     left: 0;
     width: 100%;
-    padding-left: 3em;
-    padding-right: 3em;
 }
 
 .image-description {
@@ -58,8 +56,8 @@ h2 {
     bottom: 10%;
     left: 0;
     width: 100%;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: 2em;
+    padding-right: 2em;
 }
 
 .col, .row {
