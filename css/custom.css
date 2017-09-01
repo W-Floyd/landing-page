@@ -26,11 +26,11 @@ h2 {
 
 .tile-bg {
     margin: 1vmax;
-    border-radius: 2rem;
+    border-radius: 1rem;
 }
 
 .image-tile {
-    border: 1em;
+    margin: 1em;
     padding: 0px;
 }
 
