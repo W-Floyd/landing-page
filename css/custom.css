@@ -26,7 +26,7 @@ h2 {
 
 .tile-bg {
     margin: 1em;
-    border-radius: 2em;
+    border-radius: 5vmin;
 }
 
 .image-tile {
