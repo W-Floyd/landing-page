@@ -35,8 +35,8 @@ h2 {
 }
 
 .tiles-container {
-    padding-left: 5em;
-    padding-right: 5em;
+    padding-left: 5vmin;
+    padding-right: 5vmin;
 }
 
 .realimage {
