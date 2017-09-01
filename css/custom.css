@@ -82,6 +82,7 @@ h2 {
     -moz-filter: brightness(1) grayscale(0%) contrast(100%);
     filter: brightness(1) grayscale(0%);
 }
+
 .image-tile:hover {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
@@ -102,4 +103,10 @@ h2 {
 
 .main-description {
     font-size: 1.5vw;
+}
+
+.topmatter {
+	width: 85%;
+	margin:0 auto;
+	max-width:1140px;
 }

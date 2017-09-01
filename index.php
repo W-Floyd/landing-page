@@ -2,14 +2,23 @@
     include_once('header.php');
 ?>
 
+<div class="topmatter">
 
-<h1 class="textcenter main-title">
-    <?php echo nl2br($server_name); ?>
-</h1>
-<h2 class="textcenter main-description">
-    <?php echo nl2br($server_desc); ?>
-</h2>
+    <h1 id="title" class="textcenter main-title">
+        <?php echo nl2br($server_name); ?>
+    </h1>
+    <script type="text/javascript">
+        fitText(document.getElementById('title'), 2.5)
+    </script>
 
+    <h2 id="subtitle" class="textcenter main-description">
+        <?php echo nl2br($server_desc); ?>
+    </h2>
+    <script type="text/javascript">
+        fitText(document.getElementById('subtitle'), 5)
+    </script>
+
+</div>
 
 <div class="tiles-container">
 
