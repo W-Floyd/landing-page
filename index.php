@@ -8,14 +8,14 @@
         <?php echo nl2br($server_name); ?>
     </h1>
     <script type="text/javascript">
-        fitText(document.getElementById('title'), 1.5)
+        fitText(document.getElementById('title'), 2)
     </script>
 
     <h2 id="subtitle" class="textcenter main-description">
         <?php echo nl2br($server_desc); ?>
     </h2>
     <script type="text/javascript">
-        fitText(document.getElementById('subtitle'), 3)
+        fitText(document.getElementById('subtitle'), 4)
     </script>
 
 </div>
