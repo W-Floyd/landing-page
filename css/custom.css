@@ -46,6 +46,7 @@ h2 {
 
 .image-title {
     position: absolute;
+    top: 0%;
     padding-top: 2em;
     left: 0;
     width: 100%;
