@@ -45,13 +45,11 @@
                 }
 
                 echo '<div class="image-tile col-lg-2 col-md-3 col-sm-4 col-xs-6">';
-                    echo '<a href="../' . $extension . '">'
                     echo '<div class="tile-bg">';
-                        echo '<img class="realimage" src="' . $image_use . '">';
+                        echo '<a href="../' . $extension . '"><img class="realimage" src="' . $image_use . '"></a>';
                         echo '<h1 class="image-title textcenter" id="title-' . $id . '">' . nl2br($fullname) . '</h1><br>';
                         echo '<h2 class="image-description textcenter" id="description-' . $id . '">' . nl2br($description) . '</h2>';
                     echo '</div>';
-                    echo '</a>';
                 echo '</div>';
                 echo '<script type="text/javascript">';
                     echo 'fitText(document.getElementById("title-' . $id . '"), 1.0);';
