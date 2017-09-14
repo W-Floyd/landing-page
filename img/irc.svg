@@ -5,4 +5,5 @@
  <path d="m28 17.5h-11.5v8.5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
  <circle cx="31.5" cy="17.5" r="2" style="fill:none;stroke:#80c247"/>
  <circle cx="31.5" cy="17.5" r=".5" style="fill:#55852c"/>
+ <path d="m29 24.5h-10" style="fill:none;stroke:#59a6e3"/>
 </svg>
