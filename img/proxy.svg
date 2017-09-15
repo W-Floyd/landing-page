@@ -1,16 +1,10 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <symbol id="g">
-   <circle r="2" style="fill:none;stroke:#80c247"/>
-   <circle r=".5" style="fill:#55852c"/>
-  </symbol>
-  <symbol id="b">
-   <circle r="2" style="fill:none;stroke:#59a6e3"/>
-   <circle r=".5" style="fill:#3676a4"/>
-  </symbol>
- </defs>
- <path d="m26.5 19v11m-16.5-5.5h10" style="fill:none;stroke:#80c247"/>
- <path d="m28 24.5h10m-16.5-5.5v11" style="fill:none;stroke:#59a6e3"/>
- <use transform="translate(8.5,24.5)" xlink:href="#g"/>
- <use transform="translate(39.5,24.5)" xlink:href="#b"/>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <path d="m21.5 19v11" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="39.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
+ <circle cx="39.5" cy="24.5" r=".5" style="fill:#3676a4"/>
+ <circle cx="8.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="8.5" cy="24.5" r=".5" style="fill:#55852c"/>
+ <path d="m10 24.5h10" style="fill:none;stroke:#80c247"/>
+ <path d="m26.5 19v11" style="fill:none;stroke:#80c247"/>
+ <path d="m28 24.5h10" style="fill:none;stroke:#59a6e3"/>
 </svg>

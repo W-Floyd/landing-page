@@ -1,11 +1,7 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <defs>
-  <symbol id="g">
-   <circle r="2" style="fill:none;stroke:#80c247"/>
-   <circle r=".5" style="fill:#55852c"/>
-  </symbol>
- </defs>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <circle cx="20.5" cy="20.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="20.5" cy="20.5" r=".5" style="fill:#55852c"/>
+ <circle cx="27.5" cy="20.5" r="2" style="fill:none;stroke:#80c247"/>
+ <circle cx="27.5" cy="20.5" r=".5" style="fill:#55852c"/>
  <path d="m30 28c-3 3-9 3-12 0" style="fill:none;stroke:#59a6e3"/>
- <use transform="translate(20.5,20.5)" xlink:href="#g"/>
- <use transform="translate(27.5,20.5)" xlink:href="#g"/>
 </svg>
