@@ -1,22 +1,17 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
  <circle cx="23.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
  <circle cx="23.5" cy="24.5" r=".5" style="fill:#55852c"/>
- <path d="m31 24.5h-4" style="fill:none;stroke:#59a6e3"/>
  <circle cx="32.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="32.5" cy="24.5" r=".5" style="fill:#3676a4"/>
- <path d="m16 24.5h4" style="fill:none;stroke:#59a6e3"/>
  <circle cx="14.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="14.5" cy="24.5" r=".5" style="fill:#3676a4"/>
- <path d="m19 19 2.5 2.5" style="fill:none;stroke:#59a6e3"/>
  <circle cx="17.5" cy="17.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="17.5" cy="17.5" r=".5" style="fill:#3676a4"/>
- <path d="m28 19-2.5 2.5" style="fill:none;stroke:#59a6e3"/>
  <circle cx="29.5" cy="17.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="29.5" cy="17.5" r=".5" style="fill:#3676a4"/>
- <path d="m19 30 2.5-2.5" style="fill:none;stroke:#59a6e3"/>
  <circle cx="17.5" cy="31.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="17.5" cy="31.5" r=".5" style="fill:#3676a4"/>
- <path d="m28 30-2.5-2.5" style="fill:none;stroke:#59a6e3"/>
+ <path d="m28 30-2.5-2.5m-6.5 2.5 2.5-2.5m6.5-8.5-2.5 2.5m-6.5-2.5 2.5 2.5m-5.5 3h4m11 0h-4" style="fill:none;stroke:#59a6e3"/>
  <circle cx="29.5" cy="31.5" r="2" style="fill:none;stroke:#59a6e3"/>
  <circle cx="29.5" cy="31.5" r=".5" style="fill:#3676a4"/>
 </svg>
