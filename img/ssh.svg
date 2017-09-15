@@ -1,6 +1,12 @@
 <svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <use transform="translate(16.5,29.5)" xlink:href="_defs.svg#g"/>
- <use transform="translate(31.5,18.5)" xlink:href="_defs.svg#g"/>
+ <defs>
+  <symbol id="g">
+   <circle r="2" style="fill:none;stroke:#80c247"/>
+   <circle r=".5" style="fill:#55852c"/>
+  </symbol>
+ </defs>
+ <use transform="translate(16.5,29.5)" xlink:href="#g"/>
+ <use transform="translate(31.5,18.5)" xlink:href="#g"/>
  <path d="m28 26.5h-8" style="fill:none;stroke:#59a6e3"/>
  <path d="m16.5 28v-9.5h11.5m3.5 1.5v9.5h-11.5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
 </svg>
