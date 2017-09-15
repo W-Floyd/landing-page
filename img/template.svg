@@ -1,8 +1,8 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <path d="m19.5 26v3.5l2 2h5l2-2v-1.5" style="fill:none;stroke-linejoin:round;stroke-width:1px;stroke:#80c247"/>
- <circle cx="28.5" cy="24.5" r="2" style="fill:none;stroke:#59a6e3"/>
- <circle cx="28.5" cy="24.5" r=".5" style="fill:#3676a4"/>
- <path d="m28.5 23v-3.5l-2-2h-5l-2 2v1.5" style="fill:none;stroke-linejoin:round;stroke-width:1px;stroke:#59a6e3"/>
- <circle cx="19.5" cy="24.5" r="2" style="fill:none;stroke:#80c247"/>
- <circle cx="19.5" cy="24.5" r=".5" style="fill:#55852c"/>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="m28.5 23v-3.5l-2-2h-11l-2 2v1.5" style="fill:none;stroke-linejoin:round;stroke:#59a6e3"/>
+ <path d="m19.5 26v3.5l2 2h11l2-2v-1.5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
+ <use transform="translate(19.5,24.5)" xlink:href="_defs.svg#g"/>
+ <use transform="translate(28.5,24.5)" xlink:href="_defs.svg#b"/>
+ <use transform="translate(13.5,24.5)" xlink:href="_defs.svg#b"/>
+ <use transform="translate(34.5,24.5)" xlink:href="_defs.svg#g"/>
 </svg>

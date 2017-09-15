@@ -1,13 +1,7 @@
-<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
- <circle cx="14.5" cy="26.5" r="2" style="fill:none;stroke:#59a6e3"/>
- <circle cx="14.5" cy="26.5" r=".5" style="fill:#3676a4"/>
- <circle cx="23.5" cy="19.5" r="2" style="fill:none;stroke:#80c247"/>
- <circle cx="23.5" cy="19.5" r=".5" style="fill:#55852c"/>
- <circle cx="23.5" cy="30.5" r="2" style="fill:none;stroke:#59a6e3"/>
- <circle cx="23.5" cy="30.5" r=".5" style="fill:#3676a4"/>
- <circle cx="32.5" cy="26.5" r="2" style="fill:none;stroke:#59a6e3"/>
- <circle cx="32.5" cy="26.5" r=".5" style="fill:#3676a4"/>
- <path d="m14.5 23v-1.5l2-2h5.5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
- <path d="m32.5 23v-1.5l-2-2h-5.5" style="fill:none;stroke-linejoin:round;stroke:#80c247"/>
- <path d="m23.5 21v6" style="fill:none;stroke:#80c247"/>
+<svg width="48" height="48" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <use transform="translate(23.5,19.5)" xlink:href="_defs.svg#g"/>
+ <use transform="translate(23.5,30.5)" xlink:href="_defs.svg#b"/>
+ <use transform="translate(14.5,26.5)" xlink:href="_defs.svg#b"/>
+ <use transform="translate(32.5,26.5)" xlink:href="_defs.svg#b"/>
+ <path d="m32.5 23v-1.5l-2-2h-5.5m-10.5 3.5v-1.5l2-2h5.5m1.5 1.5v6" style="fill:none;stroke:#80c247"/>
 </svg>
