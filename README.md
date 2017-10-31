@@ -1,7 +1,7 @@
 # Landing Page
 ## A simple landing page for a private VPS
 
-![Screenshot](https://user-images.githubusercontent.com/11786132/30460546-e3a9a04a-99fa-11e7-99a2-21d6ff96021a.png)
+![Screenshot](https://user-images.githubusercontent.com/11786132/32203397-2d12d50c-be37-11e7-8713-fe512df91399.png)
 
 Copy `template_config.php` to `config.php` and modify existing values. Or be lazy and link across.
 
